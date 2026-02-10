@@ -1,0 +1,7 @@
+/* Main content layout - see ExportImport.css for toolbar */
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}

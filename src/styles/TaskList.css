@@ -1,0 +1,28 @@
+.task-list-section {
+  flex: 1;
+}
+
+.task-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.task-list-empty {
+  padding: 48px 24px;
+  text-align: center;
+  color: var(--text-muted);
+  background: var(--surface);
+  border-radius: var(--radius);
+  border: 1px dashed var(--border);
+}
+
+.sortable-dragging {
+  opacity: 0.9;
+  z-index: 1;
+}
+
+.sortable-dragging .task-item {
+  box-shadow: var(--shadow);
+}
