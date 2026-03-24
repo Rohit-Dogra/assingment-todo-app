@@ -20,7 +20,7 @@ A modern Task Tracker built with **React**, **Redux Toolkit**, and **IndexedDB**
 
 ## Tech stack
 
-- React 18 (functional components, hooks)
+- React 18 (functional components,hooks)
 - Redux Toolkit + Redux Thunk
 - IndexedDB (via `idb`) for persistence
 - Vite, CSS variables, Outfit + JetBrains Mono fonts
