@@ -105,7 +105,7 @@ export default function Dashboard() {
               </BarChart>
             </ResponsiveContainer>
           ) : (
-            <p className="chart-empty">No categories yet</p>
+            <p className="chart-empty"> No categories yet</p>
           )}
         </section>
       </div>
