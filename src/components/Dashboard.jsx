@@ -124,7 +124,7 @@ export default function Dashboard() {
             ))}
           </ul>
         ) : (
-          <p className="chart-empty">No completed tasks yet</p>
+          <p className="chart-empty"> No completed tasks yet</p>
         )}
       </section>
     </div>
