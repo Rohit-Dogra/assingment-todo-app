@@ -4,7 +4,7 @@ A modern Task Tracker built with **React**, **Redux Toolkit**, and **IndexedDB**
 
 ## Features
 
-- **CRUD tasks** – Create, read, update, delete
+- **CRUD tasks** – Create, read, update, delete.
 - **Toggle completion** – Mark tasks complete/incomplete
 - **Filter** – All, Active, Completed
 - **Search** – By title, description, category, tags
